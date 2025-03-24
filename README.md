@@ -1,10 +1,10 @@
-#System obsługi kina & Kalkulator ONP
+# System obsługi kina & Kalkulator ONP
 
-##Opis
+## Opis
 
 Repozytorium zawiera dwa niezależne projekty w języku Java:
 
-##System obsługi kina
+## System obsługi kina
 
 Zapis i odczyt danych o seansach filmowych w formacie tekstowym.
 
@@ -14,7 +14,7 @@ Obsługa operacji wejścia/wyjścia.
 
 Zarządzanie kolekcjami obiektów (np. lista seansów, bilety).
 
-##Kalkulator ONP
+## Kalkulator ONP
 
 Obsługa podstawowych operacji matematycznych w odwrotnej notacji polskiej.
 
